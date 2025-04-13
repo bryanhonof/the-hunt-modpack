@@ -1,0 +1,13 @@
+name = "the-hunt-mods"
+author = "Bryan Honof"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "27287cc23606f7cce087cd56e4e06742ae98eb3a30353885a621c15ae957b18e"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.21.4"

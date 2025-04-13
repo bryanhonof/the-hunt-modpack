@@ -1,0 +1,141 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "f86725b1b487a8aaa264b4fbac2aa57ebb1bccd5333373d8a006b771bcb22a5e"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "49eb3b6bcba15d9ae7450719a571080cfe5cd63d6426f15931d4ae8d52346b49"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "dd91786e6982eb0cfcf53043af373e50670a5fce2a10d807e3676ac6f21fc064"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "e96a6bcc1f1d15c264ced9fb0371deb04771b6f7720bbf6325155e5f08b83eef"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "90a2d8838faf34b97c1771df5eb6f898deffdf655a7f4ac5ba0c54fd9420b4b8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
+metafile = true
+
+[[files]]
+file = "mods/coord-finder.pw.toml"
+hash = "f4c2151d7089d05712a76705a5a5f6bac6eb30b73f8b569f5e93c998e53e2692"
+metafile = true
+
+[[files]]
+file = "mods/datapack-injector.pw.toml"
+hash = "ae4d88c03c24c5811a80e10b2ddf1aa4ba410329d1618990ef7d96a7461e5d97"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a941bf6e31220c9aa9d361c6e6aad51f6a00d5a39ab75e083703108d695c5287"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "141a4304ba64fe7882435138e5e5e6f380ef29825ede92bcb611fa74d1ae8890"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ccb0ba609f9e0e951ae2570139f5ffd67bfd26cbf2e9443c7d17fd7900171672"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
+metafile = true
+
+[[files]]
+file = "mods/fabricexporter.pw.toml"
+hash = "f2a3b2b71ea2db686913da6fe9102d7c8d233265a51937f0f53f85cc2962da19"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "2439d7e377f26e519924882ddff4162b5b16029d48c3436fff5e1bfff998e0c4"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "f25af1c48bb8cc04da2742f3c0b51df5d62983bc9464030fea60f223d80e3589"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9a907fe9e3fd162055fcd867af565dc437cd3e590044f488d2b01f93e7677bf2"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7d28a92f816b7528efec4a2d6e9a434d5841097f7fdb07223cadab0d433311d0"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "6136fc60427d37f49b7b58a030d67bbd68fd60a0eaf459f4f9fe0058858f07d4"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "97608890817d0e6a374dd81bff3ecb094fb989af5581a29cf7019717a5ed16e2"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "7f683cfcb0ba604a52d55df61f505e1e05bde8088a99d9356c5cdf71bc277235"
+metafile = true
+
+[[files]]
+file = "mods/players-drop-heads.pw.toml"
+hash = "fd879bef2ca38006850b127ba9c0eb39b22305cabec7ee60d3109da7c0e20d44"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ab83b3ed2d509095a4772aa43c16bb1c7e1a0a0b7c4ecdaa3c29da1261d6fe53"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "9829bdb076041126da5756da048d67e67124fe95b15e3d717c2677f0df224a00"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "5da9f991d1b3c0b77b0fc65b0856385aa41e35326d797159adfe9781fbdd9510"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "54104f640beb4f19f09483f890852dc8662e2dd92315991b4fddf2a8d316aa35"
+metafile = true

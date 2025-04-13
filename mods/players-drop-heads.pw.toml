@@ -1,0 +1,13 @@
+name = "Players Drop Heads"
+filename = "players-drop-heads-61.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NU7qMnLN/versions/Oz7J3uXH/players-drop-heads-61.1.jar"
+hash-format = "sha1"
+hash = "61b959b5804416192d9de946cad14c7cd53f9873"
+
+[update]
+[update.modrinth]
+mod-id = "NU7qMnLN"
+version = "Oz7J3uXH"
