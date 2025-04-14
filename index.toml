@@ -46,6 +46,11 @@ hash = "a941bf6e31220c9aa9d361c6e6aad51f6a00d5a39ab75e083703108d695c5287"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+hash = "d6c4cd62f7693ffafd7c30864fdfc341f427feef45f6ae5724bb25d7aee2a88e"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "141a4304ba64fe7882435138e5e5e6f380ef29825ede92bcb611fa74d1ae8890"
 metafile = true

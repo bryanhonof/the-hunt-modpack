@@ -1,0 +1,7 @@
+name = "Dynmap"
+filename = "Dynmap-3.7-beta-8-fabric-1.21.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRQREgAc/versions/ewsTwo6L/Dynmap-3.7-beta-8-fabric-1.21.3.jar"
+hash-format = "sha256"
+hash = "e2b73ba90069eb55d6684817623a12c1b1f1d5fdb042e2f7d879af0ee54f2702"
