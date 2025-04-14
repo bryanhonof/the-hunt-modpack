@@ -136,6 +136,11 @@ hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
 metafile = true
 
 [[files]]
+file = "mods/status.pw.toml"
+hash = "7a3e00cc655940185d07675ce4bb37ba8509b8493bfefd098a44dfe288a5ab93"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "9829bdb076041126da5756da048d67e67124fe95b15e3d717c2677f0df224a00"
 metafile = true
